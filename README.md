@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ncorriveau
+- 👋 Hi, I’m Nicko!
 - 👀 I’m interested in data/machine learning engineering. 
-- 🌱 I’m currently attending Columbia for my MS in Operations Research and focusing on Machine Learning and Analytics. 
--  I am particularly interested in building ML pipelines and model deployment. 
+- 🌱 I’m currently attending Columbia Engineering pursuing my MS in Operations Research and focusing on Machine Learning and Analytics. Outside of school and work, I like to watchs soccer (COYG) and spend time outdoors. 
+-I'm particularly interested in collaborating on ML projects around model deployment. 
 - 📫 You can reach out to me nc2942@columbia.edu if you'd like to get in touch. 
 
 <!---
