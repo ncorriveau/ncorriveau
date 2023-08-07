@@ -1,4 +1,4 @@
-- 👋 Developer with interest in computational & data intensive applicatons - experience across data engineering and python development.
+- 👋 somewhere between a developer and a data scientist. Interested in computational & data intensive applicatons. 
 -  You can reach out to me nc2942@columbia.edu if you'd like to get in touch. 
 
 <!---
