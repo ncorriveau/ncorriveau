@@ -1,4 +1,4 @@
-- Software Engineer at Quantile in NYC. UVA '17, Columbia '23.
+- Software Engineer at Quantile in NYC.
 - Interested in computational and machine learning approaches in finance and healthcare.
 - Pythonista 🐍
 <!---
